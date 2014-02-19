@@ -1,0 +1,45 @@
+[{
+    "series_desc": "DIFF_137_AP",
+    "files": ["session_1/DTI_mx_137/dti.bvec","session_1/DTI_mx_137/dti_prov.json",
+              "session_1/DTI_mx_137/dti.bval","session_1/DTI_mx_137/dti.nii.gz"]
+},
+{
+    "series_desc": "REST_1400",
+    "files": ["session_1/RfMRI_mx_1400/rest.nii.gz","session_1/RfMRI_mx_1400/rest_prov.json"]
+},
+{
+    "series_desc": "REST_645",
+    "files": ["session_1/RfMRI_mx_645/rest_prov.json","session_1/RfMRI_mx_645/rest.nii.gz"]
+},
+{
+    "series_desc": "REST_CAP",
+    "files": ["session_1/RfMRI_std_2500/rest_prov.json","session_1/RfMRI_std_2500/rest.nii.gz"]
+},
+{
+    "series_desc": "CHECKERBOARD_1400",
+    "files": ["TfMRI_visualCheckerboard_1400/func.nii.gz","TfMRI_visualCheckerboard_1400/func_prov.json"]
+},
+{
+    "series_desc": "CHECKERBOARD_645",
+    "files": ["TfMRI_visualCheckerboard_645/func_prov.json","TfMRI_visualCheckerboard_645/func.nii.gz"]
+},
+{
+    "series_desc": "BREATH_HOLD_1400",
+    "files": ["TfMRI_breathHold_1400/func_prov.json","TfMRI_breathHold_1400/func.nii.gz"]
+},
+{
+    "series_desc": "MPRAGE_SIEMENS",
+    "files": ["anat/mprage.nii.gz","anat/mprage_prov.json"]
+},
+{
+    "series_desc": "MPRAGE_SIEMENS_DEFACED",
+    "files": ["anat/mprage.nii.gz","anat/anat_prov.json"]
+},
+{
+    "series_desc": "MPRAGE_SIEMENS_MUSIC ONLY",
+    "files": ["anat/mprage.nii.gz","anat/mprage_prov.json"]
+},
+{
+    "series_desc": "FLAIR - ch32 iPAT2 -CLINICAL",
+    "files": ["FLAIR/flair.nii.gz","FLAIR/flair_prov.json"]
+}]
